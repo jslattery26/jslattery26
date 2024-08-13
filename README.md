@@ -1,6 +1,6 @@
 # Jack
 
-```full stack software engineer``` @ [M Genio](https://mgenio.com/)
+```full stack software engineer```
 ### Work Projects
 
 <a href="https://apps.apple.com/us/app/vpexam-telehealth-app/id1561980292"><img align="left" alt="VPExam" width="72px" style="border-radius:16px;margin-right:10px;" src="https://user-images.githubusercontent.com/44002583/200477705-bbc7b969-c948-4ec2-8377-823d520b021f.png"/></a>
